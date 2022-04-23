@@ -1,4 +1,12 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/roman-vygon/">
+  <img align="left" alt="Roman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=roman-vygon.roman-vygon)
+
+<br />
+
+[![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=roman-vygon&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **roman-vygon/roman-vygon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
