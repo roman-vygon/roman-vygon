@@ -1,8 +1,7 @@
+[![Linkedin Badge](https://img.shields.io/badge/-roman.vygon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roman-vygon/)](https://www.linkedin.com/in/roman-vygon/)
 [![Gmail Badge](https://img.shields.io/badge/-roman.vygon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roman.vygon@gmail.com)](mailto:roman.vygon@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=roman-vygon.roman-vygon)
-<a href="https://www.linkedin.com/in/roman-vygon/">
-  <img align="left" alt="Roman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 <br />
 
